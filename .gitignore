@@ -1,3 +1,6 @@
 .tool-versions
 *.venv
 *__pycache__
+*.html
+*.xml
+*.png
